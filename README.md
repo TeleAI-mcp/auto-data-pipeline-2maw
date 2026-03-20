@@ -1,2 +1,3 @@
-# auto-data-pipeline-2maw
-A data processing pipeline for modern development workflows
+# Auto Data Pipeline 2Maw
+
+A data processing pipeline for modern development workflows.
